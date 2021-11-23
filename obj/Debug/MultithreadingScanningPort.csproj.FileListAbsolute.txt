@@ -1,0 +1,10 @@
+G:\VisualStudioProject\MultithreadingScanningPort\bin\Debug\MultithreadingScanningPort.exe.config
+G:\VisualStudioProject\MultithreadingScanningPort\bin\Debug\MultithreadingScanningPort.exe
+G:\VisualStudioProject\MultithreadingScanningPort\bin\Debug\MultithreadingScanningPort.pdb
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.csproj.AssemblyReference.cache
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.Form1.resources
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.Properties.Resources.resources
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.csproj.GenerateResource.cache
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.csproj.CoreCompileInputs.cache
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.exe
+G:\VisualStudioProject\MultithreadingScanningPort\obj\Debug\MultithreadingScanningPort.pdb
